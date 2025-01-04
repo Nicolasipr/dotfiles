@@ -1,0 +1,14 @@
+bat
+btop
+fzf
+gnupg
+go@1.22
+jandedobbeleer/oh-my-posh/oh-my-posh
+koekeishiya/formulae/skhd
+koekeishiya/formulae/yabai
+luarocks
+neofetch
+nvm
+neovim
+tmux
+zoxide
